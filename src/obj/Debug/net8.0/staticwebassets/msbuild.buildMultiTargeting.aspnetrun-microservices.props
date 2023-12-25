@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/aspnetrun-microservices.props" />
+</Project>
